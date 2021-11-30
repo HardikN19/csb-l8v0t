@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hardikn19.github.io/csb-l8v0t/static/css/main.e8ecf1dd.chunk.css",
+    "main.js": "https://hardikn19.github.io/csb-l8v0t/static/js/main.aebf243f.chunk.js",
+    "main.js.map": "https://hardikn19.github.io/csb-l8v0t/static/js/main.aebf243f.chunk.js.map",
+    "runtime-main.js": "https://hardikn19.github.io/csb-l8v0t/static/js/runtime-main.f07211c0.js",
+    "runtime-main.js.map": "https://hardikn19.github.io/csb-l8v0t/static/js/runtime-main.f07211c0.js.map",
+    "static/js/2.7c3394f7.chunk.js": "https://hardikn19.github.io/csb-l8v0t/static/js/2.7c3394f7.chunk.js",
+    "static/js/2.7c3394f7.chunk.js.map": "https://hardikn19.github.io/csb-l8v0t/static/js/2.7c3394f7.chunk.js.map",
+    "index.html": "https://hardikn19.github.io/csb-l8v0t/index.html",
+    "static/css/main.e8ecf1dd.chunk.css.map": "https://hardikn19.github.io/csb-l8v0t/static/css/main.e8ecf1dd.chunk.css.map",
+    "static/js/2.7c3394f7.chunk.js.LICENSE.txt": "https://hardikn19.github.io/csb-l8v0t/static/js/2.7c3394f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07211c0.js",
+    "static/js/2.7c3394f7.chunk.js",
+    "static/css/main.e8ecf1dd.chunk.css",
+    "static/js/main.aebf243f.chunk.js"
+  ]
+}
